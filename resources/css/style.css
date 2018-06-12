@@ -30,3 +30,9 @@ h2 {
 .btn:hover {
   opacity: 0.8;
 }
+
+#footer {
+  text-align: right;
+  color: #fff;
+  padding: 15px;
+}
